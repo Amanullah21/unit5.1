@@ -1,0 +1,56 @@
+{
+  "Employe": [
+    {
+      "name": "Md Amanullah",
+      "department": "ss",
+      "gender": "-1333",
+      "age": 0,
+      "mobile": "",
+      "image": "",
+      "role": "333",
+      "salary": "0333",
+      "Number": "7070476900",
+      "image_url": "333",
+      "id": 1
+    },
+    {
+      "name": "Md Amanullah",
+      "department": "ss",
+      "gender": "-1333",
+      "age": 0,
+      "mobile": "",
+      "image": "",
+      "role": "333",
+      "salary": "0333",
+      "Number": "7070476900",
+      "image_url": "333",
+      "id": 2
+    },
+    {
+      "name": "dsd",
+      "department": "dsdsadsd",
+      "gender": "323",
+      "age": "0323",
+      "mobile": "8340770235",
+      "image": "",
+      "role": "323",
+      "salary": "0323",
+      "image_url": "323323",
+      "id": 3
+    }
+  ],
+  "user": [
+    {
+      "name": "amanhujh",
+      "email": "1amanpce@gmail.com",
+      "mobile": "7070476900",
+      "id": 4
+    },
+    {
+      "name": "ccxc",
+      "email": "cxccxc",
+      "mobile": 0,
+      "id": 5
+    }
+  ]
+}
